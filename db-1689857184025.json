@@ -1,0 +1,30 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "why do we use it?\nIt is a long established fact that a reader wil be distracted",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Welcome party",
+      "body": "why do we use it?\nIt is a long established fact that a reader wil be distracted",
+      "author": "Tolu",
+      "id": 2
+    }
+  ],
+  "cars": [
+    {
+      "name": "ferrari",
+      "model": "ferrari",
+      "loaction": "ferrari",
+      "assdd": "ferrari"
+    },
+    {
+      "name": "ferrari",
+      "model": "ferrari",
+      "loaction": "ferrari",
+      "ahd": "ferrari"
+    }
+  ]
+}
